@@ -1,0 +1,149 @@
+body {
+
+  background-color: #FFD900;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
+
+
+header {
+
+  padding: 15PX;
+
+
+}
+
+#estrutura1 {
+  display: grid;
+  grid-auto-flow: column;
+  grid-auto-columns: 50vw;
+  margin-top: 8px;
+  margin-left: -15px;
+
+
+}
+
+#top1 {
+
+  text-align: center;
+  background-color: #514988;
+  color: white;
+  padding-top: 5px;
+  padding-right: 20px;
+  padding-left: 32px;
+  padding-bottom: 40px;
+
+  height: 400px;
+
+
+}
+
+
+#onetitle {
+  margin: 5px;
+  color: #FFD900;
+  font-size: 30px;
+
+
+}
+
+#date {
+  margin-top: 20px;
+  font-size: 20px;
+
+
+}
+
+#inform {
+  font-size: 20px;
+  margin-top: 30px;
+  padding: 10px;
+
+
+}
+
+#temp {
+  display: grid;
+  grid-auto-flow: column;
+  text-align: center;
+  background-color: white;
+  margin-right: -15px;
+
+
+}
+
+.colum1 {
+
+  color: #514988;
+  font-size: 38px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+
+
+}
+
+#twotitle {
+
+
+  background-color: white;
+  color: #E33881;
+  margin-top: -20px;
+  margin-bottom: -10px;
+  margin-right: -15px;
+  padding-left: 15px;
+  padding-bottom: 5px;
+
+
+}
+
+#arlequinavideo {
+
+  margin-right: -15px;
+  margin-bottom: -15px;
+  margin-top: -19px;
+  background-color: white;
+  height: 10px;
+
+
+}
+
+#adquirir {
+  display: grid;
+  grid-auto-flow: column;
+  background-color: white;
+  margin-right: -15px;
+  margin-left: -10px;
+  padding-bottom: 150px;
+
+
+}
+
+
+#ingressotitle {
+  color: #FFD900;
+  padding: 10px;
+  margin-left: 20px;
+
+
+}
+
+button {
+  background-color: #514988;
+  border-radius: 20px;
+  color: white;
+  margin: 30px;
+  width: 300px;
+  height: 70px;
+  font-size: 30px;
+  margin-top: 10rem;
+
+
+}
+
+button:hover {
+  cursor: pointer;
+  color: #FFD900
+
+  
+}
